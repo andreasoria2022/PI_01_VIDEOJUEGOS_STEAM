@@ -1,0 +1,209 @@
+genres,release_date,playtime_forever
+Action,0,33642
+Action,1990,2935
+Action,1994,1649
+Action,1995,2435
+Action,1996,23
+Action,1997,514
+Action,1998,580580
+Action,1999,186984
+Action,2000,14602728
+Action,2001,15207
+Action,2002,10466
+Action,2003,139031
+Action,2004,52713328
+Action,2005,601081
+Action,2006,354225
+Action,2007,415497
+Action,2008,1164969
+Action,2009,8768063
+Action,2010,3716651
+Action,2011,8013745
+Action,2012,12363588
+Action,2013,1310564
+Action,2014,191826
+Action,2015,95949
+Action,2016,92635
+Action,2017,805249
+Adventure,0,361487
+Adventure,1990,52
+Adventure,1992,0
+Adventure,1997,6344
+Adventure,1998,689
+Adventure,2000,97
+Adventure,2002,0
+Adventure,2003,65797
+Adventure,2004,85
+Adventure,2005,340
+Adventure,2006,1960
+Adventure,2007,13212
+Adventure,2008,91574
+Adventure,2009,99099
+Adventure,2010,464238
+Adventure,2011,6956249
+Adventure,2012,329495
+Adventure,2013,298736
+Adventure,2014,25804
+Adventure,2015,124251
+Adventure,2016,46656
+Adventure,2017,574527
+Animation &amp; Modeling,2015,8
+Casual,0,337684
+Casual,1997,204
+Casual,1999,844
+Casual,2006,33847
+Casual,2007,34818
+Casual,2008,26450
+Casual,2009,15893
+Casual,2010,45590
+Casual,2011,41733
+Casual,2012,178044
+Casual,2013,46415
+Casual,2014,22322
+Casual,2015,97512
+Casual,2016,52014
+Casual,2017,509866
+Early Access,2012,8863
+Early Access,2013,322148
+Early Access,2014,990
+Early Access,2015,3434
+Early Access,2016,350
+Free to Play,0,347447
+Free to Play,1999,844
+Free to Play,2003,47893
+Free to Play,2006,183
+Free to Play,2007,235
+Free to Play,2009,678
+Free to Play,2010,4479
+Free to Play,2011,413256
+Free to Play,2012,634381
+Free to Play,2013,815749
+Free to Play,2014,162951
+Free to Play,2015,113196
+Free to Play,2016,33257
+Free to Play,2017,739861
+Indie,0,38
+Indie,1997,6
+Indie,1999,844
+Indie,2001,0
+Indie,2003,2245
+Indie,2004,3689
+Indie,2005,2131
+Indie,2006,134798322
+Indie,2007,869
+Indie,2008,93702
+Indie,2009,31101
+Indie,2010,99395
+Indie,2011,6645211
+Indie,2012,780868
+Indie,2013,653807
+Indie,2014,134879
+Indie,2015,161136
+Indie,2016,84514
+Indie,2017,800459
+Massively Multiplayer,0,337646
+Massively Multiplayer,2003,47893
+Massively Multiplayer,2007,188
+Massively Multiplayer,2009,651
+Massively Multiplayer,2010,2872
+Massively Multiplayer,2011,494721
+Massively Multiplayer,2012,389791
+Massively Multiplayer,2013,556778
+Massively Multiplayer,2014,56220
+Massively Multiplayer,2015,41267
+Massively Multiplayer,2016,33072
+Massively Multiplayer,2017,291231
+RPG,0,337684
+RPG,1997,1572
+RPG,1998,171
+RPG,1999,0
+RPG,2000,97
+RPG,2002,31640
+RPG,2003,109136
+RPG,2005,167331
+RPG,2006,88257
+RPG,2007,158667
+RPG,2008,101722
+RPG,2009,213975
+RPG,2010,468575
+RPG,2011,6722255
+RPG,2012,904540
+RPG,2013,422132
+RPG,2014,26735
+RPG,2015,132281
+RPG,2016,48925
+RPG,2017,292453
+Racing,0,3795
+Racing,2003,715
+Racing,2004,4
+Racing,2005,1802
+Racing,2006,16340
+Racing,2007,15170
+Racing,2008,64531
+Racing,2009,43265
+Racing,2010,19547
+Racing,2011,4436
+Racing,2012,20356
+Racing,2013,7956
+Racing,2014,5225
+Racing,2015,15292
+Racing,2016,2729
+SD,0,6066661
+SD,2011,67
+SD,2012,63
+SD,2014,0
+SD,2015,0
+Simulation,0,3856
+Simulation,1998,252
+Simulation,2001,3327
+Simulation,2002,15
+Simulation,2003,16031
+Simulation,2004,3689
+Simulation,2006,134785223
+Simulation,2007,12906
+Simulation,2008,208288
+Simulation,2009,356997
+Simulation,2010,73927
+Simulation,2011,125546
+Simulation,2012,174796
+Simulation,2013,413740
+Simulation,2014,11858
+Simulation,2015,128195
+Simulation,2016,4692
+Simulation,2017,226570
+Sports,2006,37
+Sports,2008,11606
+Sports,2009,4214
+Sports,2010,39139
+Sports,2011,3551
+Sports,2012,40215
+Sports,2013,6532
+Sports,2014,272
+Sports,2015,15339
+Sports,2016,3079
+Sports,2017,12
+Strategy,0,38
+Strategy,1993,33
+Strategy,1995,4471
+Strategy,1997,1741
+Strategy,1999,0
+Strategy,2001,149753
+Strategy,2002,0
+Strategy,2003,82194
+Strategy,2004,238647
+Strategy,2005,11436
+Strategy,2006,993052
+Strategy,2007,8629
+Strategy,2008,346091
+Strategy,2009,1320634
+Strategy,2010,1822862
+Strategy,2011,374529
+Strategy,2012,610919
+Strategy,2013,428523
+Strategy,2014,15085
+Strategy,2015,96959
+Strategy,2016,1263
+Strategy,2017,1222
+Utilities,2006,1725
+Utilities,2014,1
+Video Production,2015,8
